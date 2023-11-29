@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\baskara\baskara\bin\Debug\baskara.exe.config
+C:\temp\ws-vs2019\baskara\baskara\bin\Debug\baskara.exe
+C:\temp\ws-vs2019\baskara\baskara\bin\Debug\baskara.pdb
+C:\temp\ws-vs2019\baskara\baskara\obj\Debug\baskara.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\baskara\baskara\obj\Debug\baskara.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\baskara\baskara\obj\Debug\baskara.exe
+C:\temp\ws-vs2019\baskara\baskara\obj\Debug\baskara.pdb
